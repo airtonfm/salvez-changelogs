@@ -1,0 +1,13 @@
+{
+  "titulo": "Atualizações",
+  "maximo": 8,
+  "lista": [
+    {
+      "versao": "Beta 1",
+      "data": "30/10/2026",
+      "mudancas": [
+        "Primeiro beta do servidor"
+      ]
+    }
+  ]
+}
