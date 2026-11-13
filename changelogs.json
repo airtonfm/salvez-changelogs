@@ -3,6 +3,14 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Clã",
+      "data": "13/11/2026",
+      "mudancas": [
+        "Novo no menu do chefe: Registro da Conta do clã",
+        "Mostra todas as movimentações de dinheiro do clã: quem depositou e quem sacou"
+      ]
+    },
+    {
       "versao": "Zumbi Alpha",
       "data": "13/11/2026",
       "mudancas": [
