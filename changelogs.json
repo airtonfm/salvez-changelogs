@@ -3,27 +3,13 @@
   "maximo": 8,
   "lista": [
     {
-      "versao": "Clã",
+      "versao": "Zumbi Alpha, Garagem e Clã",
       "data": "13/11/2026",
       "mudancas": [
-        "Novo no menu do chefe: Registro da Conta do clã",
-        "Mostra todas as movimentações de dinheiro do clã: quem depositou e quem sacou"
-      ]
-    },
-    {
-      "versao": "Zumbi Alpha",
-      "data": "13/11/2026",
-      "mudancas": [
-        "Mais dois Zumbis Alpha pelo mapa: agora são três chefões, cada um em uma região",
-        "O local onde o Alpha está agora é uma zona de radiação: leve a Máscara Antirradiação"
-      ]
-    },
-    {
-      "versao": "Garagem",
-      "data": "13/11/2026",
-      "mudancas": [
-        "O veículo agora sai da garagem em modo fantasma por alguns segundos",
-        "Assim os veículos não batem mais uns nos outros na hora de tirar da garagem"
+        "Zumbi Alpha: mais dois chefões pelo mapa, agora são três, cada um em uma região",
+        "Zumbi Alpha: o local onde o Alpha está agora é uma zona de radiação, leve a Máscara Antirradiação",
+        "Garagem: o veículo agora sai em modo fantasma por alguns segundos, sem bater nos outros na saída",
+        "Clã: novo Registro da Conta no menu do chefe, com todas as movimentações de dinheiro do clã"
       ]
     },
     {
