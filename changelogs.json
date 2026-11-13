@@ -24,13 +24,6 @@
         "Não mudou: impactos muito fortes ainda podem inutilizar o veículo na hora",
         "Não mudou: dano ao atropelar zumbis e dano por tiros"
       ]
-    },
-    {
-      "versao": "Beta 1",
-      "data": "30/10/2026",
-      "mudancas": [
-        "Primeiro beta do servidor"
-      ]
     }
   ]
 }
