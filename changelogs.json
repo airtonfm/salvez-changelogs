@@ -3,6 +3,17 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Bases de Clã",
+      "data": "13/11/2026",
+      "mudancas": [
+        "Mais espaço de construção nas bases de clã",
+        "Limite aumentado: cercas e portões (todos os modelos)",
+        "Limite aumentado: posto de vigia, bancada de construção e canteiro de plantação",
+        "Continuam iguais: limite total de peças por clã, pilares e pórticos",
+        "Use /basecla para ver quantas peças o seu clã já colocou"
+      ]
+    },
+    {
       "versao": "Durabilidade dos Veículos",
       "data": "13/11/2026",
       "mudancas": [
