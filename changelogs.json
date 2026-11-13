@@ -3,6 +3,18 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Durabilidade dos Veículos",
+      "data": "13/11/2026",
+      "mudancas": [
+        "Carros: menos dano em colisões, aguentam mais batidas antes de o motor falhar",
+        "Motos: menos dano em quedas e impactos",
+        "Helicópteros: bem mais resistentes a pousos bruscos e esbarrões",
+        "Na prática: os veículos quebram com menos facilidade e duram mais em deslocamentos longos",
+        "Não mudou: impactos muito fortes ainda podem inutilizar o veículo na hora",
+        "Não mudou: dano ao atropelar zumbis e dano por tiros"
+      ]
+    },
+    {
       "versao": "Beta 1",
       "data": "30/10/2026",
       "mudancas": [
