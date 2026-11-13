@@ -3,6 +3,22 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Zumbi Alpha",
+      "data": "13/11/2026",
+      "mudancas": [
+        "Mais dois Zumbis Alpha pelo mapa: agora são três chefões, cada um em uma região",
+        "O local onde o Alpha está agora é uma zona de radiação: leve a Máscara Antirradiação"
+      ]
+    },
+    {
+      "versao": "Garagem",
+      "data": "13/11/2026",
+      "mudancas": [
+        "O veículo agora sai da garagem em modo fantasma por alguns segundos",
+        "Assim os veículos não batem mais uns nos outros na hora de tirar da garagem"
+      ]
+    },
+    {
       "versao": "Sucata de Motor",
       "data": "13/11/2026",
       "mudancas": [
