@@ -3,6 +3,13 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Sucata de Motor",
+      "data": "13/11/2026",
+      "mudancas": [
+        "Aumentamos em 25% a quantidade de sucata de motor encontrada ao cortar as sucatas de carros"
+      ]
+    },
+    {
       "versao": "Bases de Clã",
       "data": "13/11/2026",
       "mudancas": [
