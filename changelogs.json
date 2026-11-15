@@ -3,6 +3,16 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Squad",
+      "data": "15/11/2026",
+      "mudancas": [
+        "Squads maiores: agora dá para montar um squad com mais sobreviventes, para encarar hordas, missões e zonas de perigo com o grupo completo",
+        "HUD ajustada: com o squad cheio, os cards dos colegas ficam mais compactos e continuam mostrando foto, nome, vida e colete, sem cobrir o resto da tela",
+        "Posição da HUD: começa um pouco mais acima na tela. Quem já escolheu a própria posição continua com ela",
+        "Colegas visíveis de mais longe: o nome e a barra de vida em cima da cabeça aparecem a uma distância maior, desde que você esteja vendo o colega"
+      ]
+    },
+    {
       "versao": "Zumbi Alpha, Garagem e Clã",
       "data": "13/11/2026",
       "mudancas": [
