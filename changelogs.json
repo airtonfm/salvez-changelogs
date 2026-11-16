@@ -3,6 +3,13 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Bomba Manual de Combustível",
+      "data": "16/11/2026",
+      "mudancas": [
+        "Desgaste reduzido: agora a bomba manual abastece 20 galões antes de quebrar, em vez de 10"
+      ]
+    },
+    {
       "versao": "Avisos de Atualização",
       "data": "16/11/2026",
       "mudancas": [
