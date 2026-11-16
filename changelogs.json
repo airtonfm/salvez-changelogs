@@ -3,6 +3,17 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Acampamentos, Desconexão e Zona Vermelha",
+      "data": "16/11/2026",
+      "mudancas": [
+        "Acampamentos: quem não tem clã agora pode registrar o próprio acampamento no NPC “Registro de Acampamento” e montar uma base solo",
+        "Acampamentos: o Totem marca o centro do acampamento e é nele que você fabrica as peças (cercas, portões, barraca e baú)",
+        "Acampamentos: dá para adicionar mais uma pessoa ao acampamento pelo botão Membros do totem",
+        "Desconexão: quando alguém sai do servidor, aparece um texto no local com quem saiu e o motivo, no lugar da cópia do personagem",
+        "Zona Vermelha: quem sair do servidor caído dentro de uma zona vermelha deixa os itens no chão"
+      ]
+    },
+    {
       "versao": "Bomba Manual de Combustível",
       "data": "16/11/2026",
       "mudancas": [
