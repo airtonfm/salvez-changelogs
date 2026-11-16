@@ -3,6 +3,14 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Medicamentos e Ferraria",
+      "data": "16/11/2026",
+      "mudancas": [
+        "Medicamentos: agora dá para usar os medicamentos com uma arma na mão, sem precisar guardar a arma antes",
+        "Ferraria: agora é possível fabricar pregos na bigorna. Cada lingote bruto de ferro rende 30 pregos enferrujados"
+      ]
+    },
+    {
       "versao": "Squad",
       "data": "15/11/2026",
       "mudancas": [
