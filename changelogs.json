@@ -3,6 +3,16 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Squad, Motos e Helicópteros",
+      "data": "20/11/2026",
+      "mudancas": [
+        "Squad: se o parceiro do seu squad estiver caído e sendo carregado ou revistado por outra pessoa, agora você pode atirar. Não tem mais a trava na mira",
+        "Motos e mobilete: estão mais resistentes e, com a blindagem, ficam ainda mais resistentes",
+        "Helicópteros: corrigido o dano no ar, agora estão mais resistentes ao voar",
+        "Helicópteros: o dano de tiro continua o mesmo. Mudou apenas a resistência a batidas e colisões"
+      ]
+    },
+    {
       "versao": "Acampamentos, Desconexão e Zona Vermelha",
       "data": "16/11/2026",
       "mudancas": [
