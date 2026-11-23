@@ -3,6 +3,18 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Chás, Drogas e RG",
+      "data": "23/11/2026",
+      "mudancas": [
+        "Chás: os chás de Erva-cidreira e de Capim-santo ficaram mais úteis. Além de matar a sede e esquentar, agora também tiram 50 de estresse",
+        "Drogas: começamos a introduzir novas drogas no servidor. Onde encontrar? Isso vocês vão descobrir dentro do game",
+        "RG para denúncias: aperte F9 perto de outro sobrevivente para ver o RG dele. Ele aparece em cima da cabeça do jogador por alguns segundos",
+        "RG: funciona a até 8 metros e sempre mostra o jogador mais próximo. Só você vê o RG na tela",
+        "RG: é copiado automaticamente, então é só colar (Ctrl+V) direto na sua denúncia",
+        "RG: prefere outra tecla? Troque em Configurações > Teclas > FiveM"
+      ]
+    },
+    {
       "versao": "Squad, Motos e Helicópteros",
       "data": "20/11/2026",
       "mudancas": [
