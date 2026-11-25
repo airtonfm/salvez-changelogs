@@ -3,6 +3,18 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Sistema de Streamers",
+      "data": "25/11/2026",
+      "mudancas": [
+        "O Salvez agora tem um sistema próprio de acompanhamento de lives para os streamers do servidor (Twitch e Kick)",
+        "As horas de live passam a ser contadas automaticamente, por dia, semana e mês",
+        "A audiência de cada live também é registrada, com média e pico de viewers",
+        "Qualquer player pode consultar, dentro do jogo, quem está ao vivo no servidor naquele momento",
+        "O streamer consegue acompanhar as próprias horas e conferir se a live está sendo contada",
+        "Como participar: fale com a staff para cadastrar o seu canal"
+      ]
+    },
+    {
       "versao": "Plantio de Maconha e Invasão ao Laboratório",
       "data": "25/11/2026",
       "mudancas": [
