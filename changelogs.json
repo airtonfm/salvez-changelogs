@@ -3,6 +3,19 @@
   "maximo": 8,
   "lista": [
     {
+      "versao": "Plantio de Maconha e Invasão ao Laboratório",
+      "data": "25/11/2026",
+      "mudancas": [
+        "Maconha: chegou ao Salvez. Dá para cultivar de duas formas: indoor, dentro dos galpões dos clãs, ou em áreas externas, direto no solo",
+        "Cultivo: a planta passa por estágios de crescimento e precisa de cuidado. Regar e adubar mantém a saúde, e quanto mais saudável a planta, melhor a colheita",
+        "Colheita: você recebe flores de maconha, com chance de recuperar uma semente para o próximo plantio",
+        "Baseado: as flores são usadas na fabricação do baseado, com papel e tesoura. A maconha tem 3 efeitos ao ser usada",
+        "Nova missão, Invasão ao Laboratório: as sementes não são vendidas em loja. O clã precisa invadir um laboratório dos desertores escondido em um galpão, enfrentar os desertores e pegar as caixas com a carga",
+        "Missão: é iniciada pelo tablet do clã, e só um clã por vez pode fazer. A entrada do laboratório só aparece enquanto a missão está em andamento",
+        "Cuidado: qualquer sobrevivente que encontrar a entrada também pode entrar e disputar as caixas"
+      ]
+    },
+    {
       "versao": "Chás, Drogas e RG",
       "data": "23/11/2026",
       "mudancas": [
